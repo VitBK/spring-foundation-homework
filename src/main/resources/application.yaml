@@ -1,3 +1,4 @@
+use-custom-datasource: true
 spring:
   jpa:
     hibernate:
